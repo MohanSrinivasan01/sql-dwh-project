@@ -1,4 +1,4 @@
-# sql-dwh-project
+# Data Warehouse and Analytics Project
 Building a modern, scalable Data Warehouse using SQL Server incorporating ETL processes, data modeling and analytics.
 
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀
