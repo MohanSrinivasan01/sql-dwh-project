@@ -4,6 +4,8 @@ Welcome to the **Data Warehouse and Analytics Project** repository! 🚀
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generate actionable insights. Designed as a portfolio project highlights industry best practices in data engineering and analytics. The projects under this repo has a detailed rundown of what one would need when building a highly available and usable data warehouse solution in 2025 using free tools.
 
 This project was done with the help of Baraa through his course on Youtube see [Youtube Link](https://www.youtube.com/watch?v=9GVqKuTVANE&list=PLNcg_FV9n7qaUWeyUkPfiVtMbKlrfMqA8)
+
+
 ---
 
 ## 🚀 Project Requirements
